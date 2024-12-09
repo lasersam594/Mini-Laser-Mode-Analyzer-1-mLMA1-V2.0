@@ -1,4 +1,4 @@
-mLMA1-V2.0 provides the following functions:
+mLMA1-V2.0 runs on an Atmega328p Nano 3.0 and provides the following functions:
 
 1. Scanning Fabry-Perot Interferometer (SFPI) driver output and detector input.
 2. Laser power meter detector input.
