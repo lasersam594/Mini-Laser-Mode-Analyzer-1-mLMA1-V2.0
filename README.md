@@ -9,3 +9,5 @@ These all support dual polarization inputs for two channels of display.
 mLMA1 requires appropriate SFPI cavity with a low voltage PZT and detector(s).  It is otherwise stand-alone with its own color LCD.
 
 For more information, please see: https://repairfaq.org/sam/LMA/ .
+
+Copyright® Samuel M. Goldwasser, 1994-2024, all rights reserved.
